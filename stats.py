@@ -11,3 +11,11 @@ def count_chars(text):
         else:
             char_dic[char] = 1
     return char_dic
+
+def sort_dic(c_dic):
+    dic_list = []
+    chars = {"char": "a"}
+    nums = {"num": 0}
+    for key in c_dic:
+
+    
